@@ -1,3 +1,1 @@
-# _akademische angelegenheit_
-
-"Academic matters"
+# Academic matters
